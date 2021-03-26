@@ -1,0 +1,82 @@
+*{
+    padding:0;
+    margin: 0;
+    outline:0;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #313753;
+    padding: 20px 0px 20px 0px;
+}
+.menu-ul {
+    display: flex;
+    list-style: none;
+    font-style: fantasy;
+}
+.menu{
+    margin-right: 30px;
+}
+.a-menu{
+    padding-right: 40px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.logo{
+    color: rgb(29, 218, 76);
+    padding-left: 20px;
+    font-style: oblique;
+    font-size: 30px;
+}
+body
+{
+    
+    background: #c01a1a;
+    background-image: url('img2.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-style: oblique;
+    font-size:30px;
+}
+
+    
+ 
+
+ .head{
+     text-align: center;
+     font-size: 30px;
+     padding-top: 150px;
+ }
+ h3{
+     padding-top: 40px;
+     color: rgb(23, 19, 82);
+
+ }
+.abt{
+    text-align: center;
+    color: rgb(21, 121, 51);
+}
+.log{
+    padding-left: 40px;
+    
+}
+.about{
+    padding-left: 40px;
+    color: rgb(14, 245, 245);
+}
+.log p{
+    color: rgb(14, 245, 245);
+}
+.log1{
+    padding-left: 190px;
+}
